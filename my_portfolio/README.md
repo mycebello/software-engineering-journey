@@ -1,13 +1,16 @@
 Job Maisiba Portfolio
+
 This is a personal portfolio website built using HTML and CSS to showcase Job Maisiba's background, skills, projects, and contact information.
 
 Files Included
+
 portfolio.html: Main structure and content of the website.
 
 style.css: Styling and layout of the website.
 
  HTML Overview (portfolio.html)
 Key Tags and Their Roles
+
 <!DOCTYPE html>: Declares the document type and version (HTML5).
 
 <html lang="en">: Root element; lang="en" helps with accessibility and SEO.
@@ -17,6 +20,7 @@ Key Tags and Their Roles
 <body>: Contains all visible content.
 
 Major Sections
+
 <header>: Introduces your name and profession.
 
 <nav>: Navigation bar with anchor links to different sections using href="#section-id".
